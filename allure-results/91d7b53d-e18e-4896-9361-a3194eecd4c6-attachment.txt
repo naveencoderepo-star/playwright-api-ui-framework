@@ -1,0 +1,1 @@
+Login failed for admin@gmail.com. Status: 401, Body: {"path":"/api/login","error":"Full authentication is required to access this resource","timestamp":"2026-02-13T15:56:54.845297806","status":401}

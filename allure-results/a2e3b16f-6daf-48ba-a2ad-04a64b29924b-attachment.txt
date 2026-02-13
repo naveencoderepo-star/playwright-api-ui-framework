@@ -1,0 +1,2 @@
+Supervisor Token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtaXRjaGVsQGdtYWlsLmNvbSIsInR5cGUiOiJBQ0NFU1MiLCJpYXQiOjE3NzA5ODU0NDMsImV4cCI6MTc3MTA3MTg0M30.zLCGXyhuHvMlRs_iHdAS4me3kDfwOhcxbzMZJ9nI-UQ
+Supervisor Created Shot ID: 441

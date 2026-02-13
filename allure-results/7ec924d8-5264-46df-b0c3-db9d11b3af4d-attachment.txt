@@ -1,0 +1,1 @@
+Login failed for admin@gmail.com. URL: https://shotbuzz-dev-master.coherent.in/authenticate, Status: 401, Body: {"path":"/authenticate","error":"Full authentication is required to access this resource","timestamp":"2026-02-13T16:10:36.132758201","status":401}

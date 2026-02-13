@@ -1,0 +1,2 @@
+Token for admin@gmail.com: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20iLCJ0eXBlIjoiQUNDRVNTIiwiaWF0IjoxNzcwOTg2NTc2LCJleHAiOjE3NzEwNzI5NzZ9.bMtSeKLMmS4EX-gxKW2LY5kxpZpc3ao2FErv6kYmL_Y
+Admin Created Shot ID: 445
