@@ -3,7 +3,7 @@ import { createShot } from '../../services/shotService.js';
 import { createShotPayload } from '../../test-data/shot-payload.js';
 import { loginAs } from '../../services/authService.js';
 
-test.describe('Shots API - Supervisor', () => {
+test.describe('Shots API - Supervisor @sanity', () => {
 
   test('Supervisor should create a new shot successfully', async ({ request }) => {
     // 1. Dynamic Login as Supervisor

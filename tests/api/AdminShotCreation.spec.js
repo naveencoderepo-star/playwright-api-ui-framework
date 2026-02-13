@@ -3,7 +3,7 @@ import { createShot } from '../../services/shotService.js';
 import { createShotPayload } from '../../test-data/shot-payload.js';
 import { getLoginToken, loginAs } from '../../services/authService.js';
 
-test.describe('Shots API - Admin', () => {
+test.describe('Shots API - Admin @sanity', () => {
   
   test.beforeAll(async ({ request }) => {
     // Dynamic login using the new helper

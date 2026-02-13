@@ -3,7 +3,7 @@ import { createShot } from '../../services/shotService.js';
 import { createShotPayload } from '../../test-data/shot-payload.js';
 import { loginAs } from '../../services/authService.js';
 
-test.describe('Shots API - Head', () => {
+test.describe('Shots API - Head @regression', () => {
 
   test('Head should create a new shot successfully', async ({ request }) => {
     // 1. Dynamic Login as Head
